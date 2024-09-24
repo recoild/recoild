@@ -2,6 +2,9 @@
     <p align="center">
         <img src="cat.gif" style="height:120px;"/>
     </p>
+    <p align="center">
+      <a href="https://github.com/recoild/recoild/blob/main/README.md">English</a> | <a href="https://github.com/recoild/recoild/blob/main/README_kr.md">한국어</a>
+    </p>
     <p>🌟 Welcome! 🌟</p>
     <h4 align="left">My Projects</h4>
     <table border="1" cellpadding="10">
