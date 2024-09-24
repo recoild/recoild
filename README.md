@@ -1,5 +1,6 @@
 <div align="center" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;">
     <p align="center">
+        <img src="cat.gif" style="height:120px;"/>
     </p>
     <p>🌟 Welcome! 🌟</p>
     <h4 align="left">My Projects</h4>
