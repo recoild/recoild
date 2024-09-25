@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/sidewinderk/gbfTransKor">gbfTransKor</a></td>
-      <td>게임 번역 확장 프로그램.<br>
+      <td>DOM 파싱 프로젝트. 게임 번역 확장 프로그램.<br>
           일본어 게임 콘텐츠를 한국어로 번역합니다.
       </td>
       <td>
