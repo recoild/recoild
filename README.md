@@ -57,8 +57,8 @@
     </tr>
     <tr>
       <td><a href="https://github.com/sidewinderk/gbfTransKor">gbfTransKor</a></td>
-      <td>Game translation extension.<br>
-          Translates in-game content from Japanese and Japanese to Korean.
+      <td>DOM parsing project for Game translation extension.<br>
+          Translates in-game content from Japanese to Korean.
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40">
